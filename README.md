@@ -1,6 +1,6 @@
 Software Engineer on Data Science projects in a computer vision startup. The last year mainly focused on a project of trucks monitoring by number plate recognition. Made to production, which reduced trucks downtime by 12%, and currently working on decreasing missed recognitions from a stream of ~20k&nbsp;images&nbsp;/&nbsp;day.
 
-Wide experience in research and data analysis (13 yrs, PhD). Made a transition from fundamental research in Oil & Gas to research and development in IT due to my passion to create products that people use.
+Wide experience in research and data analysis (13&nbsp;yrs, PhD). Made a transition from fundamental research in Oil & Gas to research and development in IT due to my passion to create products that people use.
 
 Personal mission statement: "Living a balanced life. Helping professionals to work smarter, not harder by creating automatic systems for their routine."
 
