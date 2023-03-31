@@ -1,4 +1,4 @@
-Software Engineer on Data Science projects in computer vision startup. The last year mainly focused on project of trucks monitoring by number plates recognition. Made to production, which reduced trucks downtime by 12%, and currently working on decreasing missed recognitions from a stream of ~20k frames per day.
+Software Engineer on Data Science projects in a computer vision startup. The last year mainly focused on a project of trucks monitoring by number plate recognition. Made to production, which reduced trucks downtime by 12%, and currently working on decreasing missed recognitions from a stream of ~20k&nbsp;images&nbsp;/&nbsp;day.
 
 Wide experience in research and data analysis (13 yrs, PhD). Made a transition from fundamental research in Oil & Gas to research and development in IT due to my passion to create products that people use.
 
