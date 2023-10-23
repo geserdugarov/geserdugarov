@@ -1,4 +1,4 @@
-Software Engineer developing some core functionality in a transactional data lake platform.
+Software Engineer developing some core functionality in a data lakehouse platform.
 
 Wide experience in research and data analysis (13&nbsp;yrs, PhD). Made a transition from fundamental research in Oil & Gas to research and development in IT due to my passion to create products that people use.
 
