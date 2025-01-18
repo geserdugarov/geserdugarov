@@ -1,6 +1,6 @@
 Software Engineer developing core functionality in a Data Lakehouse platform to extract value from PB-scale data.
 
-Wide experience in research and data analysis (13&nbsp;yrs, PhD). Made a transition from fundamental research in Oil & Gas to research and development in IT.
+Wide experience in research and data analysis, PhD. Made a transition from fundamental research in Oil & Gas to research and development in IT.
 
 Passionate about Big Data and Distributed Systems. Personal mission statement: "Living a balanced life. Helping professionals to work smarter, not harder by creating automatic systems for their routine." 
 
